@@ -1,21 +1,18 @@
-# git-wiki-skeleton
+# Welcome Waite, Waite Don't Till Me Cult...ivators!
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+Welcome to our cult...ivation group's very own custom hosted wiki website. This site will exist as a living repository of what we learn as a community garden group for hopefully years to come! I (Bryce) purchased the domain name for the next decade, so it is not going anywhere!
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+## What are we going to put in here?
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+The sky's the limit! I think I'm going to make some placeholder pages for some topic ideas. Some thoughts so far:
 
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+- [Soil testing](https://www.waitewaitedonttillme.com/example-page)
+- [Water management](https://www.waitewaitedonttillme.com/example-page)
+- [Symbiotic planting practices](https://www.waitewaitedonttillme.com/example-page)
+- [Pest control without synthetic chemical intervention](https://www.waitewaitedonttillme.com/example-page)
+- [Swap expectations](https://www.waitewaitedonttillme.com/example-page)
+- [Main points of contact](https://www.waitewaitedonttillme.com/example-page)
 
-## The git-wiki project
+## How do we crowdsource expertise and ideas for pages?
 
-The git-wiki project is composed by 3 different repository:
-
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
-
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it.
-
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-Version: 1.0.9
+If you navigate to any page on this website, there is a comment section. That could be a good way to start, but ultimately we will want to organize the info into a wikipedia style article for that page. You can send me information on the WhatsApp group OR, if anyone would like, I can show you how to edit the pages directly and add your own information. I only ask, if you send me information to upload, that it be ready to be put into a wiki style article (or at least as much as possible); so on a succinct topic, non-rambling, etc. I can split things up a little bit into subheadings, but I don't want a dissertation on a topic that you transcribed with voice-to-text that has 10 topics and no subheadings. We can talk about it more and make a standard operating procedure for submitting information or editing the pages.
